@@ -5,44 +5,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/App.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/PluginSelectionDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/PluginLoader.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Plugable.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/plugins/simpleOrganization/SimpleFileOrganization.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/ModuleDiscover.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/build.gradle</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/ClassContainer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/modules/organization/OrganizationPlugable.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/modules/capture/CaptureModule.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Utils.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/modules/organization/Organization.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Main.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/MainWindow.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Modulable.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/plugins/anotherOrganization/AnotherOrganization.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/MainPresenter.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/ClassesFinder.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Extension.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/App.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/MainWindow.java</file>
       </group>
     </open-files>
     <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/ClassesFinder.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/DynamicClassLoader.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/ModuleClassVisitor.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/PluginSelectionDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Main.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Project.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/NewProjectDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/MainWindow.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/WizardPanel.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/WizardDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/Panel.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/PanelManager.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/modules/organization/Organization.java</file>
-        <file>file:/C:/Users/Celso/Desktop/memoria/src/main/java/core/MainPresenter.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/App.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/preferences/PreferencesManager.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/plugin/Dependency.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/MainWindow.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/preferences/AppProjectPreferencesWrapper.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/plugin/PluginRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/preferences/AppPreferencesWrapper.java</file>
+        <file>file:/C:/Users/Celso/Desktop/multimodal-observer/src/main/java/core/Project.java</file>
       </group>
     </open-files>
   </auxiliary>
