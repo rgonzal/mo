@@ -6,26 +6,21 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/ProjectOrganizationPlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/OrganizationDockable.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/ParticipantDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/dockables/DockablesRegistry.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/Participant.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/Plugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/filemanagement/FilesPane.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/Organization.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/filemanagement/FileRegistry.java</file>
-      </group>
-    </open-files>
-    <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-      <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/ProjectOrganizationPlugin.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/elements.xml</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/OrganizationDockable.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/ParticipantDialog.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/dockables/DockablesRegistry.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/Participant.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/dockables/Test5.java</file>
+      </group>
+    </open-files>
+    <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+      <group>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/dockables/DockablesRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/dockables/DockableElement.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/filemanagement/FilesPane.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/filemanagement/FileRegistry.java</file>
       </group>
     </open-files>
   </auxiliary>
