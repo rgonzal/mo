@@ -5,32 +5,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MouseVisConfiguration.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KeyboardPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardRecorder.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MouseVisPlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KBDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MouseVisConfigDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/test/EEGPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KBVisPlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KBVisConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/EyeTribeFixPlayer.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/VisualizationPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MousePlayer.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/FixationConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/ConfigDialog.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/EyeTribeFixPlugin.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/FixationPanel.java</file>
       </group>
     </open-files>
+    <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KeyboardPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardRecorder.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MouseVisConfiguration.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KBDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MouseVisPlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MouseVisConfigDialog.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/test/EEGPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KBVisPlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/keyboard/KBVisConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/EyeTribeFixPlayer.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/SimpleConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/SimpleConfigDialog.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/AttConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/EEGAttPlugin.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/VisualizationPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/mouse/MousePlayer.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/FixationConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/ConfigDialog.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/EyeTribeFixPlugin.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/FixationPanel.java</file>
       </group>
     </open-files>
   </auxiliary>
