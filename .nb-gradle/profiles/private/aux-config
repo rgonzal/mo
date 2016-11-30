@@ -6,46 +6,43 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/Utils.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/Language.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/MainWindow.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/preferences/AppPreferencesWrapper.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginListener.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginViewer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginRegistry.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/CaptureStage.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/RecordAction.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/Extends.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/project/ProjectManagement.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/project/ProjectOptionProvider.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/Plugin.java</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/ExtensionPoint.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/MainPresenter.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/preferences/AppProjectPreferencesWrapper.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardCapturePlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/MultimodalObserver.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/menubar/MenuBar.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/I18n.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/core/Translations.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.core.ui.dockables.Translations_es.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/filemanagement/project/Translations.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/dockables/DockablesRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.filemanagement.Translations.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/StagePlugin.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.core.ui.menubar.Translations_es_CL.properties</file>
         <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/ExtPoint.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/preferences/PreferencesManager.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/Language.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/PopupRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/Extension.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginListener.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/CaptureProvider.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/Dependency.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.core.ui.dockables.Translations.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/filemanagement/project/Translations_en.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/Translations_ja.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/filemanagement/project/Translations_es.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/menubar/IMenuBarItems.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/organization/Organization.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/ExtensionScanner.java</file>
       </group>
     </open-files>
     <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/Utils.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/Language.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/MainWindow.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/preferences/AppPreferencesWrapper.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginListener.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginViewer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginRegistry.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/CaptureStage.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/RecordAction.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/Plugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/ExtensionPoint.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/MainPresenter.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/preferences/AppProjectPreferencesWrapper.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardCapturePlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/MultimodalObserver.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/ui/menubar/MenuBar.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/ExtPoint.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/preferences/PreferencesManager.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.core.filemanagement.Translations_en.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.core.filemanagement.Translations_es.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo.core.filemanagement.Translations.properties</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/I18n.java</file>
       </group>
     </open-files>
   </auxiliary>
