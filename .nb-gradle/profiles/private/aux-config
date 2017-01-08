@@ -5,31 +5,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/core/filemanagement/project/Translations_en.properties</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FilesTreeModel.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/project/ProjectManagement.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FilePopupMenu.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/PopupRegistry.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/core/filemanagement/project/Translations.properties</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FilesPane.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginPlainViewer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/project/ProjectCloser.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FileRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/ThinkGearClient.java</file>
       </group>
     </open-files>
     <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/core/filemanagement/project/Translations_en.properties</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FilesTreeModel.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/project/ProjectManagement.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FilePopupMenu.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/PopupRegistry.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/resources/i18n/mo/core/filemanagement/project/Translations.properties</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FilesPane.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/plugin/PluginPlainViewer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/project/ProjectCloser.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/core/filemanagement/FileRegistry.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGRecorder.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/EEGPlayer.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/ThinkGearClient.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/AttConfig.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGData.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGListener.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/ESense.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGPower.java</file>
       </group>
     </open-files>
   </auxiliary>
