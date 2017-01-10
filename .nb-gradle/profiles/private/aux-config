@@ -5,14 +5,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardRecorder.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardCapturePlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGCapturePlugin.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGConfiguration.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGPower.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardCaptureConfiguration.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGRecorder.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/EyeTribeFixPlayer.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TheEyeTribeRecorder.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/build.gradle</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/FixationPanel.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TETClient.java</file>
       </group>
     </open-files>
     <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+      <group>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGRecorder.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/EyeTribeFixPlayer.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TheEyetribeConfiguration.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TheEyeTribeRecorder.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/build.gradle</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TheEyeTribeDialog.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eyetracker/FixationPanel.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TETClient.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/theeyetribe/TheEyetribeCapturePlugin.java</file>
+      </group>
+    </open-files>
   </auxiliary>
 </gradle-project-properties>
