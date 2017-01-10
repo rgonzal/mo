@@ -5,21 +5,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/ThinkGearClient.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardRecorder.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardCapturePlugin.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGCapturePlugin.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGConfiguration.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGPower.java</file>
+        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/keyboard/KeyboardCaptureConfiguration.java</file>
       </group>
     </open-files>
     <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-      <group>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGRecorder.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/EEGPlayer.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/ThinkGearClient.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/visualization/eeg/attention/AttConfig.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGData.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGListener.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/ESense.java</file>
-        <file>file:/C:/Users/Celso/Desktop/mo/multimodal-observer/src/main/java/mo/capture/eeg/EEGPower.java</file>
-      </group>
-    </open-files>
   </auxiliary>
 </gradle-project-properties>
